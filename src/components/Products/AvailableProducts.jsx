@@ -39,6 +39,7 @@ const AvailableProducts = () => {
   const productsList = Artificial_Products.map((product) => (
     <ProductItem
       key={product.id}
+      id={product.id}
       name={product.name}
       img={product.img}
       price={product.price}
