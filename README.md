@@ -1,6 +1,6 @@
 # cart-page
 
-https://sorousch9.github.io/cart-page-deploy/
+https://sorousch9.github.io/cart/
 
 
 a cart page with only useContext and reducer. without Redux and other frameworks
