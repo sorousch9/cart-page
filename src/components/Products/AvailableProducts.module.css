@@ -10,7 +10,14 @@
   margin: 0;
   padding: 0;
 }
-
+.productsLoading {
+  text-align: center;
+  color: white;
+}
+.productsErr {
+  text-align: center;
+  color: rgb(250, 8, 8);
+}
 @keyframes products-appear {
   from {
     opacity: 0;

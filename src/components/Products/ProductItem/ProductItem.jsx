@@ -19,9 +19,6 @@ const ProductItem = (props) => {
   return (
     <li className={classes.product}>
       <div className={classes.wrapper}>
-        <div className={classes.image}>
-          <img src={props.img} alt={props.name} />
-        </div>
         <div className={classes.content}>
           <h3>{props.name}</h3>
           <div className={classes.description}>{props.description}</div>
@@ -35,5 +32,4 @@ const ProductItem = (props) => {
     </li>
   );
 };
-
 export default ProductItem;
