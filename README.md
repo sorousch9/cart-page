@@ -1,6 +1,9 @@
-# cart-page
+# cart-page without Redux ,
+Click on the link below :
+
 
 https://sorousch9.github.io/cart/
+
 
 
 a cart page with only useContext and reducer. without Redux and other frameworks
